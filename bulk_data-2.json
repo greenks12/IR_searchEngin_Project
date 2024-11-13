@@ -1838,7 +1838,7 @@
 {
     "id": 122,
     "name": "Yamaha YBH-301MS",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Yamaha",
     "price": 108000,
@@ -1853,7 +1853,7 @@
 {
     "id": 123,
     "name": "Jinbao JBMB-012",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Jinbao",
     "price": 28000,
@@ -1868,7 +1868,7 @@
 {
     "id": 124,
     "name": "Marching Baritone Coleman Standard (Silver)",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Coleman",
     "price": 22000,
@@ -1883,7 +1883,7 @@
 {
     "id": 125,
     "name": "AYERS ABA730S Marching Baritone",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "AYERS",
     "price": 27000,
@@ -1898,7 +1898,7 @@
 {
     "id": 126,
     "name": "Jinbao JBFH-600L",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Jinbao",
     "price": 32000,
@@ -1913,7 +1913,7 @@
 {
     "id": 127,
     "name": "French Horn Marching Coleman Standard",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "coleman",
     "price": 22500,
@@ -1928,7 +1928,7 @@
 {
     "id": 128,
     "name": "YAMAHA YHR – 567D",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Yamaha",
     "price": 137600,
@@ -1943,7 +1943,7 @@
 {
     "id": 129,
     "name": "Yamaha YHR-314 II",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Yamaha",
     "price": 96000,
@@ -1958,7 +1958,7 @@
 {
     "id": 130,
     "name": "Coleman Standard Gold",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "coleman",
     "price": 18450,
@@ -1973,7 +1973,7 @@
 {
     "id": 131,
     "name": "Ayers Silver AEU8601S",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "AYERS",
     "price": 28000,
@@ -1988,7 +1988,7 @@
 {
     "id": 132,
     "name": "Yamaha YEP-321S",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Yamaha",
     "price": 159000,
@@ -2003,7 +2003,7 @@
 {
     "id": 133,
     "name": "Yamaha YEP-201MS Marching Euphonium",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Yamaha",
     "price": 110400,
@@ -2018,7 +2018,7 @@
 {
     "id": 134,
     "name": "Symphony JYTU-E170",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Symphony",
     "price": 65000,
@@ -2033,7 +2033,7 @@
 {
     "id": 135,
     "name": "Jupiter JTU1030M",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Jupiter",
     "price": 153000,
@@ -2048,7 +2048,7 @@
 {
     "id": 136,
     "name": "AYERS ATU751S",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "AYERS",
     "price": 120000,
@@ -2063,7 +2063,7 @@
 {
     "id": 137,
     "name": "Yamaha YBB-641",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Yamaha",
     "price": 222400,
@@ -2078,7 +2078,7 @@
 {
     "id": 138,
     "name": "YAMAHA YBB \u2013 321S",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Yamaha",
     "price": 225000,
@@ -2093,7 +2093,7 @@
 {
     "id": 139,
     "name": "Yamaha YBB-201MS",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Yamaha",
     "price": 236000,
@@ -2108,7 +2108,7 @@
 {
     "id": 140,
     "name": "Yamaha YBB-105MS",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Yamaha",
     "price": 188000,
@@ -2123,7 +2123,7 @@
 {
     "id": 141,
     "name": "Yamaha YMP-204MS Marching Mellophones",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Yamaha",
     "price": 92000,
@@ -2138,7 +2138,7 @@
 {
     "id": 142,
     "name": "Jupiter JMP1000M",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Jupiter",
     "price": 46750,
@@ -2153,7 +2153,7 @@
 {
     "id": 143,
     "name": "Ayers AMP701S",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "AYERS",
     "price": 22000,
@@ -2168,7 +2168,7 @@
 {
     "id": 144,
     "name": "Marching MellophonesColeman Standard Gold",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "coleman",
     "price": 10800,
@@ -2183,7 +2183,7 @@
 {
     "id": 145,
     "name": "Jupiter JFH846R",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Jupiter",
     "price": 40000,
@@ -2198,7 +2198,7 @@
 {
     "id": 146,
     "name": "Jupiter JFH846N",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Jupiter",
     "price": 33000,
@@ -2213,7 +2213,7 @@
 {
     "id": 147,
     "name": "Jupiter JCR700",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Jupiter",
     "price": 35000,
@@ -2228,7 +2228,7 @@
 {
     "id": 148,
     "name": "Jupiter JCR 520MN",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Jupiter",
     "price": 22500,
@@ -2243,7 +2243,7 @@
 {
     "id": 149,
     "name": "Yamaha YTR-6345GS",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Yamaha",
     "price": 68000,
@@ -2258,7 +2258,7 @@
 {
     "id": 150,
     "name": "Kenneth KTR-905",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Kenneth",
     "price": 20000,
@@ -2273,7 +2273,7 @@
 {
     "id": 151,
     "name": "Symphony JYTR-E100",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Symphony",
     "price": 7600,
@@ -2288,7 +2288,7 @@
 {
     "id": 152,
     "name": "Bach TR650",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Bach",
     "price": 16640,
@@ -2303,7 +2303,7 @@
 {
     "id": 153,
     "name": "Jupiter JTR700R",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Jupiter",
     "price": 36000,
@@ -2318,7 +2318,7 @@
 {
     "id": 154,
     "name": "Ayers ATR420A",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "AYERS",
     "price": 10500,
@@ -2333,7 +2333,7 @@
 {
     "id": 155,
     "name": "Coleman Standard Silver Trumpet",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "coleman",
     "price": 6750,
@@ -2348,7 +2348,7 @@
 {
     "id": 156,
     "name": "Golden Cup JY1401N",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Golden Cup",
     "price": 5590,
@@ -2363,7 +2363,7 @@
 {
     "id": 157,
     "name": "Yamaha YTR-8345GS",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Yamaha",
     "price": 140000,
@@ -2378,7 +2378,7 @@
 {
     "id": 158,
     "name": "Yamaha YSL-154S Tenor Trombone",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Yamaha",
     "price": 41600,
@@ -2393,7 +2393,7 @@
 {
     "id": 159,
     "name": "Trombone Coleman Standard Lacquer Gold lacquer finish",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "coleman",
     "price": 9450,
@@ -2408,7 +2408,7 @@
 {
     "id": 160,
     "name": "Bach TB501DIR",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Bach",
     "price": 20250,
@@ -2423,7 +2423,7 @@
 {
     "id": 161,
     "name": "Kenneth KSL-100 Trombone",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Kenneth",
     "price": 16000,
@@ -2438,7 +2438,7 @@
 {
     "id": 162,
     "name": "AYERS ATB700S",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "AYERS",
     "price": 29000,
@@ -2453,7 +2453,7 @@
 {
     "id": 163,
     "name": "Trombone AYERS ASL810A",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "AYERS",
     "price": 21000,
@@ -2468,7 +2468,7 @@
 {
     "id": 164,
     "name": "Yamaha YSL-356GE Tenor Trombone",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Yamaha",
     "price": 84000,
@@ -2483,7 +2483,7 @@
 {
     "id": 165,
     "name": "Yamaha YSL-356G",
-    "type": "Bass instrument",
+    "type": "Brass instrument",
     "electronic": "FALSE",
     "brand": "Yamaha",
     "price": 71200,
@@ -3494,4 +3494,1175 @@
     "price": 15000,
     "description": "This drum kit is designed for the aspiring drummer looking to embark on their musical journey. Building on the legacy of the Tornado Series, this 7.2mm 9-ply poplar shell drum body produces a warm and resonant tone. It comes complete with a snare, 2 toms, bass drum, and floor tom. The hardware is enhanced with upgraded cymbals and a sturdy 400 Series footstool for the hi-hat stand and bass pedal, ensuring durability and improved playability. SONIC clear ball bearings make tuning a breeze. A complete package at an affordable price.",
     "link": "https://www.musicarms.net/mapex-comet/"
+}
+
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 233,
+    "name": "Gusta Bonnie",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Gusta",
+    "price": 49000,
+    "description": " ",
+    "link": "https://www.musicarms.net/gusta-bonnie/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 234,
+    "name": "Gusta GJB5-05",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Gusta",
+    "price": 10900,
+    "description": " ",
+    "link": "https://www.musicarms.net/gusta-gjb5-05/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 235,
+    "name": "Yamaha TRBX605FM",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Yamaha",
+    "price": 29500,
+    "description": " ",
+    "link": "https://www.musicarms.net/yamaha-trbx605fm-%e0%b9%80%e0%b8%9a%e0%b8%aa%e0%b9%84%e0%b8%9f%e0%b8%9f%e0%b9%89%e0%b8%b2/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 236,
+    "name": "Yamaha BB734A",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Yamaha",
+    "price": 33000,
+    "description": " ",
+    "link": "https://www.musicarms.net/%e0%b9%80%e0%b8%9a%e0%b8%aa%e0%b9%84%e0%b8%9f%e0%b8%9f%e0%b9%89%e0%b8%b2-yamaha-bb734a/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 237,
+    "name": "Yamaha BBP35",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Yamaha",
+    "price": 70000,
+    "description": " ",
+    "link": "https://www.musicarms.net/%e0%b9%80%e0%b8%9a%e0%b8%aa%e0%b9%84%e0%b8%9f%e0%b8%9f%e0%b9%89%e0%b8%b2-yamaha-bbp35/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 238,
+    "name": "Yamaha TRBX174",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Yamaha",
+    "price": 8500,
+    "description": " ",
+    "link": "https://www.musicarms.net/yamaha-trbx174/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 239,
+    "name": "Yamaha BBNE2",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Yamaha",
+    "price": 145000,
+    "description": " ",
+    "link": "https://www.musicarms.net/yamaha-bbne2/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 240,
+    "name": "Fender American Professional II Jazz Bass",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Fender",
+    "price": 68400,
+    "description": " ",
+    "link": "https://www.musicarms.net/fender-american-professional-ii-jazz-bass/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 241,
+    "name": "Fender American Ultra II Precision Bass",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Fender",
+    "price": 82800,
+    "description": " ",
+    "link": "https://www.musicarms.net/fender-american-ultra-ii-precision-bass/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 242,
+    "name": "Fender Suona Jazz Bass Thinline Limited Edition",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Fender",
+    "price": 103500,
+    "description": " ",
+    "link": "https://www.musicarms.net/fender-suona-jazz-bass-thinline-limited-edition/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 243,
+    "name": "Fender American Standard Precision Bass V",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Fender",
+    "price": 49500,
+    "description": " ",
+    "link": "https://www.musicarms.net/fender-player-ii-jazz-bass/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 244,
+    "name": "Fender Player II Jazz Bass",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Fender",
+    "price": 30600,
+    "description": " ",
+    "link": "https://www.musicarms.net/fender-player-ii-jazz-bass/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 245,
+    "name": "Fender Vintera II ’60s Jazz Bass",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Fender",
+    "price": 45000,
+    "description": " ",
+    "link": "https://www.musicarms.net/fender-vintera-ii-60s-jazz-bass/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 246,
+    "name": "Fender Duff Mckagan Precision Bass",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Fender",
+    "price": 46800,
+    "description": " ",
+    "link": "https://www.musicarms.net/fender-duff-mckagan-precision-bass/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 247,
+    "name": "Fender Vintera II ’60s Bass VI",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Fender",
+    "price": 49500,
+    "description": " ",
+    "link": "https://www.musicarms.net/fender-vintera-ii-60s-bass-vi/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 248,
+    "name": "Fender Hybrid II Jazz Bass",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Fender",
+    "price": 41400,
+    "description": " ",
+    "link": "https://www.musicarms.net/fender-made-in-japan-hybrid-ii-jazz-bass/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 249,
+    "name": "Fender 2024 Collection Hybrid II Jazz Bass ",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "",
+    "price": 43200,
+    "description": " ",
+    "link": "https://www.musicarms.net/fender-2024-collection-hybrid-ii-jazz-bass-%e0%b9%80%e0%b8%9a%e0%b8%aa%e0%b9%84%e0%b8%9f%e0%b8%9f%e0%b9%89%e0%b8%b2/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 250,
+    "name": "Fender Aerodyne Special Jazz Bass",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "",
+    "price": 46800,
+    "description": " ",
+    "link": "https://www.musicarms.net/fender-aerodyne-special-jazz-bass/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 251,
+    "name": "Fender J Precision Bass ",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "",
+    "price": 51300,
+    "description": " ",
+    "link": "https://www.musicarms.net/fender-j-precision-bass/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 252,
+    "name": "Fender Traditional II 60s Jazz Bass",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "",
+    "price": 37800,
+    "description": " ",
+    "link": "https://www.musicarms.net/fender-traditional-ii-60s-jazz-bass/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 253,
+    "name": "Squier Sonic Precision Bass",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Squire",
+    "price": 7740,
+    "description": " ",
+    "link": "https://www.musicarms.net/squier-sonic-precision-bass/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 254,
+    "name": "Squier Classic Vibe Precision Bass 60s",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "",
+    "price": 15750,
+    "description": " ",
+    "link": "https://www.musicarms.net/squier-classic-vibe-pricision-bass-60s/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 255,
+    "name": "Squier Affinity Jazz Bass",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "",
+    "price": 9900,
+    "description": " ",
+    "link": "https://musicarms.net/squier-affinity-jazz-bass/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 256,
+    "name": "Squier 40th Anniversary Precision Bass MN Satin Vintage Edition",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "",
+    "price": 20700,
+    "description": " ",
+    "link": "https://www.musicarms.net/squier-40th-anniversary-precision-bass-mn-satin-vintage-edition/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 257,
+    "name": "Squier Contemporary Active Precision Bass PH V",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "",
+    "price": 18900,
+    "description": " ",
+    "link": "https://www.musicarms.net/squier-contemporary-active-precision-bass-ph-v/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 258,
+    "name": "Squier Contemporary Jazz Bass",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "",
+    "price": 13500,
+    "description": " ",
+    "link": "https://www.musicarms.net/squier-contemporary-jazz-bass/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 259,
+    "name": "Squier Vintage Modified Jaguar Bass",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "",
+    "price": 9450,
+    "description": " ",
+    "link": "https://www.musicarms.net/squier-vintage-modified-jaguar-bass-%e0%b8%a3%e0%b8%b2%e0%b8%84%e0%b8%b2%e0%b8%96%e0%b8%b9%e0%b8%81/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 260,
+    "name": "Epiphone El Capitan J-200 Studio Bass",
+    "type": "Bass instrument",
+    "electronic": "FALSE",
+    "brand": "Epiphone",
+    "price": 22500,
+    "description": " ",
+    "link": "https://www.musicarms.net/epiphone-el-capitan-j-200-studio-bass/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 261,
+    "name": "Epiphone Toby Deluxe IV Bass ",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Epiphone",
+    "price": 10800,
+    "description": " ",
+    "link": "https://www.musicarms.net/epiphone-toby-deluxe-iv-bass/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 262,
+    "name": "Epiphone Thunderbird 60s Bass",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Epiphone",
+    "price": 18000,
+    "description": " ",
+    "link": "https://www.musicarms.net/epiphone-thunderbird-60s-bass/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 263,
+    "name": "Epiphone ​Goth Thunderbird IV Bass",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Epiphone",
+    "price": 16200,
+    "description": " ",
+    "link": "https://www.musicarms.net/epiphone-%e2%80%8bgoth-thunderbird-iv-bass-%e0%b9%80%e0%b8%9a%e0%b8%aa%e0%b8%84%e0%b8%b8%e0%b8%93%e0%b8%a0%e0%b8%b2%e0%b8%9e/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 264,
+    "name": "Epiphone Thunderbird Pro-V Bass",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Epiphone",
+    "price": 21600,
+    "description": " ",
+    "link": "https://www.musicarms.net/epiphone-thunderbird-pro-v-bass/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 265,
+    "name": "Epiphone Jack Casady Signature Bass",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Epiphone",
+    "price": 27000,
+    "description": " ",
+    "link": "https://www.musicarms.net/epiphone-jack-casady-signature-bass/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 266,
+    "name": "Sire Marcus Miller V3 2nd 4 String ",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Sire",
+    "price": 18800,
+    "description": " ",
+    "link": "https://www.musicarms.net/%e0%b9%80%e0%b8%9a%e0%b8%aa4-sire-marcus-miller-v3-2nd-tobacco-sunburst/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 267,
+    "name": "Sire Marcus Miller P7 Alder 4 String",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Sire",
+    "price": 25700,
+    "description": " ",
+    "link": "https://www.musicarms.net/sire-marcus-miller-p7-alder-4-string/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 268,
+    "name": "Sire Marcus Miller GB5 FL 5 String ",
+    "type": "Bass instrument",
+    "electronic": "FALSE",
+    "brand": "Sire",
+    "price": 25200,
+    "description": " ",
+    "link": "https://www.musicarms.net/sire-marcus-miller-gb5-fl-5-string/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 269,
+    "name": "Sterling StingRay Ray35 PB",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Sterling",
+    "price": 38700,
+    "description": " ",
+    "link": "https://www.musicarms.net/sterling-stingray-ray35/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 270,
+    "name": "Sterling Sub Ray4 Stingray 4",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Sterling",
+    "price": 12150,
+    "description": " ",
+    "link": "https://www.musicarms.net/sterling-sub-ray4-stingray-4/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 271,
+    "name": "Sterling StingRay5 Ray35",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Sterling",
+    "price": 28800,
+    "description": " ",
+    "link": "https://www.musicarms.net/sterling-stingray5-ray35/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 272,
+    "name": "Sterling Sub Ray5 Stingray ",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Sterling",
+    "price": 13500,
+    "description": " ",
+    "link": "https://www.musicarms.net/sterling-sub-ray5-stingray-5/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 273,
+    "name": "Ibanez SRMS805",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Ibanez",
+    "price": 44100,
+    "description": " ",
+    "link": "https://www.musicarms.net/ibanez-srms805/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 274,
+    "name": "Ibanez TMB30 Talman Bass",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Ibanez",
+    "price": 9450,
+    "description": " ",
+    "link": "https://www.musicarms.net/ibanez-tmb30/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 275,
+    "name": "Ibanez GWB35 Gary Willis Signature Fretless 5 Strings",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Ibanez",
+    "price": 36000,
+    "description": " ",
+    "link": "https://musicarms.net/ibanez-gwb35/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 276,
+    "name": "Ibanez TMB35",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Ibanez",
+    "price": 12150,
+    "description": " ",
+    "link": "https://musicarms.net/ibanez-tmb35/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 277,
+    "name": "Ibanez SR306EB",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Ibanez",
+    "price": 18450,
+    "description": " ",
+    "link": "https://musicarms.net/%E0%B9%80%E0%B8%9A%E0%B8%AA-6-%E0%B8%AA%E0%B8%B2%E0%B8%A2-ibanez-sr306eb-wk/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 278,
+    "name": "Ibanez BTB400QM",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Ibanez",
+    "price": 22500,
+    "description": " ",
+    "link": "https://musicarms.net/%E0%B9%80%E0%B8%9A%E0%B8%AA-ibanez-btb400qm/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 279,
+    "name": "Ibanez RD505",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Ibanez",
+    "price": 23400,
+    "description": " ",
+    "link": "https://www.musicarms.net/%e0%b9%80%e0%b8%9a%e0%b8%aa-ibanez-rd505/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 280,
+    "name": "Ibanez ATK305",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Ibanez",
+    "price": 30150,
+    "description": " ",
+    "link": "https://www.musicarms.net/%e0%b9%80%e0%b8%9a%e0%b8%aa-ibanez-atk-305/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 281,
+    "name": "lbanez SR1205",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Ibanez",
+    "price": 50400,
+    "description": " ",
+    "link": "https://www.musicarms.net/ibanez-sr1205/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 282,
+    "name": "Cort Space 5 ",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Cort",
+    "price": 18900,
+    "description": " ",
+    "link": "https://musicarms.net/cort-space-5/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 283,
+    "name": "Cort C5 Deluxe",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Cort",
+    "price": 12900,
+    "description": " ",
+    "link": "https://www.musicarms.net/cort-artisan-c5-deluxe/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 284,
+    "name": "Cort Action Bass Plus ",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Cort",
+    "price": 6900,
+    "description": " ",
+    "link": "https://www.musicarms.net/cort-action-bass-plus/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 285,
+    "name": "Cort Rithimic Jeff Berlin Signature",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Cort",
+    "price": 25900,
+    "description": " ",
+    "link": "https://www.musicarms.net/cort-rithimic-jeff-berlin-signature/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 286,
+    "name": "Cort Artisan C5 Plus ZBMH",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Cort",
+    "price": 10200,
+    "description": " ",
+    "link": "https://musicarms.net/cort-c5plus-zbmh-5%E0%B8%AA%E0%B8%B2%E0%B8%A2-%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%96%E0%B8%81/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 287,
+    "name": "Schecter SGR C-4",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Schecter",
+    "price": 9000,
+    "description": " ",
+    "link": "https://www.musicarms.net/schecter-sgr-c-4-%e0%b9%80%e0%b8%9a%e0%b8%aa%e0%b8%a3%e0%b8%b2%e0%b8%84%e0%b8%b2%e0%b8%96%e0%b8%b9%e0%b8%81/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 288,
+    "name": "Schecter SGR C-5",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Schecter",
+    "price": 9900,
+    "description": " ",
+    "link": "https://www.musicarms.net/schecter-sgr-c-5-%e0%b9%80%e0%b8%9a%e0%b8%aa%e0%b8%a3%e0%b8%b2%e0%b8%84%e0%b8%b2%e0%b8%96%e0%b8%b9%e0%b8%81/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 289,
+    "name": "Schecter Riot seasion 5",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Schecter",
+    "price": 28800,
+    "description": " ",
+    "link": "https://www.musicarms.net/schecter-riot-seasion-5/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 290,
+    "name": "Schecter Model T session 5",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Schecter",
+    "price": 28800,
+    "description": " ",
+    "link": "https://www.musicarms.net/schecter-model-t-session-5/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 291,
+    "name": "Warwick Streamer LX Limited Edition 2018 4-String",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Warwick",
+    "price": 64000,
+    "description": " ",
+    "link": "https://www.musicarms.net/warwick-streamer-lx-limited-edition-2018-4-string/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 292,
+    "name": "Warwick Pro Series Corvette Standard Ash 4",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Warwick",
+    "price": 33600,
+    "description": " ",
+    "link": "https://www.musicarms.net/warwick-pro-series-corvette-standard-ash-4-%e0%b9%80%e0%b8%9a%e0%b8%aa%e0%b9%84%e0%b8%9f%e0%b8%9f%e0%b9%89%e0%b8%b2/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 293,
+    "name": "Warwick Teambuilt Corvette $$ Limited Edition 2023 5-String",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Warwick",
+    "price": 100000,
+    "description": " ",
+    "link": "https://www.musicarms.net/warwick-teambuilt-corvette-limited-edition-2023-5-string/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 294,
+    "name": "Warwick Pro Series Thumb Bolt-On 5 ",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Warwick",
+    "price": 49600,
+    "description": " ",
+    "link": "https://www.musicarms.net/warwick-pro-series-thumb-bolt-on-5/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 295,
+    "name": "Warwick Rockbass Corvette Basic Short Scale 4",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Warwick",
+    "price": 20000,
+    "description": " ",
+    "link": "https://www.musicarms.net/warwick-rockbass-corvette-basic-short-scale/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 296,
+    "name": "Warwick Rockbass Infinity Bass 5",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Warwick",
+    "price": 25600,
+    "description": " ",
+    "link": "https://www.musicarms.net/warwick-rockbass-infinity-5/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 297,
+    "name": "Warwick Rockbass Streamer NT Bass 5 Strings",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Warwick",
+    "price": 28000,
+    "description": " ",
+    "link": "https://www.musicarms.net/warwick-streamer-nt-5/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 298,
+    "name": "Warwick Rockbass Racing Stripes Streamer",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Warwick",
+    "price": 12300,
+    "description": " ",
+    "link": "https://www.musicarms.net/warwick-rockbass-racing-stripes-streamer/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 299,
+    "name": "Sadowsky MetroExpress 21-Fret Vintage J/J Bass 5 Strings",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Sadowsky",
+    "price": 25600,
+    "description": " ",
+    "link": "https://www.musicarms.net/sadowsky-metroexpress-21-fret-vintage-j-j-bass-5-strings/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 300,
+    "name": "Sadowsky MetroExpress 21-Fret Hybrid P/J Bass 5-String",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Sadowsky",
+    "price": 25600,
+    "description": " ",
+    "link": "https://www.musicarms.net/sadowsky-metroexpress-21-fret-hybrid-p-j-bass-5-string/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 301,
+    "name": "Sadowsky MetroLine 21-Fret Vintage J/J Bass Red Alder 5 Strings",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Sadowsky",
+    "price": 68000,
+    "description": " ",
+    "link": "https://www.musicarms.net/sadowsky-metroline-21-fret-vintage-j-j-bass-red-alder-5-strings/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 302,
+    "name": "Sadowsky MetroLine 21 Frets Vintage J Bass Red Alder Body Maple Fingerboard",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Sadowsky",
+    "price": 64800,
+    "description": " ",
+    "link": "https://www.musicarms.net/%e0%b9%80%e0%b8%9a%e0%b8%aa-5-%e0%b8%aa%e0%b8%b2%e0%b8%a2-sadowsky-metroline-21-frets-vintage-j-bass-red-alder-body-maple-fingerboard/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 303,
+    "name": "Sadowsky MetroLine 21-Fret Standard J/J Limited Edition 2020 5-String",
+    "type": "Bass instrument",
+    "electronic": "TRUE",
+    "brand": "Sadowsky",
+    "price": 83200,
+    "description": " ",
+    "link": "https://www.musicarms.net/%e0%b9%80%e0%b8%9a%e0%b8%aa%e0%b9%84%e0%b8%9f%e0%b8%9f%e0%b9%89%e0%b8%b2-sadowsky-metroline-21-fret-standard-j-j-limited-edition-2020-5-string/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 304,
+    "name": "Fender Kingman Bass V.2 ",
+    "type": "Bass instrument",
+    "electronic": "FALSE",
+    "brand": "Fender",
+    "price": 22500,
+    "description": " ",
+    "link": "https://www.musicarms.net/fender-kingman-bass-sce-natural/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 305,
+    "name": "Sire Marcus Miller GB5 4 String",
+    "type": "Bass instrument",
+    "electronic": "FALSE",
+    "brand": "Sire",
+    "price": 22600,
+    "description": " ",
+    "link": "https://www.musicarms.net/sire-marcus-miller-gb5-4-string/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 306,
+    "name": "Alvarez AB60CE",
+    "type": "Bass instrument",
+    "electronic": "FALSE",
+    "brand": "Alvarez",
+    "price": 21600,
+    "description": " ",
+    "link": "https://www.musicarms.net/alvarez-ab60ce/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 307,
+    "name": "Paramount AB85CEQN",
+    "type": "Bass instrument",
+    "electronic": "FALSE",
+    "brand": "Paramount",
+    "price": 6630,
+    "description": " ",
+    "link": "https://www.musicarms.net/paramount-ab85ceqn/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 308,
+    "name": "Sigma BMC-1E",
+    "type": "Bass instrument",
+    "electronic": "FALSE",
+    "brand": "Sigma",
+    "price": 12150,
+    "description": " ",
+    "link": "https://www.musicarms.net/sigma-bmc-1e/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 309,
+    "name": "Ibanez AVNB1E ",
+    "type": "Bass instrument",
+    "electronic": "FALSE",
+    "brand": "Ibanez",
+    "price": 18900,
+    "description": " ",
+    "link": "https://www.musicarms.net/%e0%b9%80%e0%b8%9a%e0%b8%aa-ibanez-avnb1e/"
+}
+{
+    "index": {
+        "_index": "music_instrument"
+    }
+}
+{
+    "id": 310,
+    "name": "CRAFTER GAB-21 S/N",
+    "type": "Bass instrument",
+    "electronic": "FALSE",
+    "brand": "CRAFTER",
+    "price": 14800,
+    "description": " ",
+    "link": "https://www.musicarms.net/crafter-gab-21-sn-bag/"
 }
